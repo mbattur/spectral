@@ -1837,3 +1837,10 @@ $baseurl: '{{ site.baseurl }}/images';
 	.posts {
 		padding-bottom: 1em;
 	}
+	
+	.center-image{
+	    margin: 0 auto;
+	    display: block;
+	    height: 365px;
+	    width: 547px;
+	}

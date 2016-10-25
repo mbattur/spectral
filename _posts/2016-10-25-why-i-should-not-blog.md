@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WHY I SHOULD NOT BLOG
+title: Why I Should Not Blog
 ---
 
 

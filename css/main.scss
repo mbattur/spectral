@@ -1838,9 +1838,15 @@ $baseurl: '{{ site.baseurl }}/images';
 		padding-bottom: 1em;
 	}
 	
-	.center-image{
+	.center-image {
 	    margin: 0 auto;
 	    display: block;
 	    height: 365px;
 	    width: 547px;
+	}
+	
+	#centerdiv {
+	    display: table;
+    	margin: 0 auto;
+    	padding-left: 0.5em;
 	}

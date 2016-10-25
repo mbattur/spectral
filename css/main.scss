@@ -1841,8 +1841,8 @@ $baseurl: '{{ site.baseurl }}/images';
 	.center-image {
 	    margin: 0 auto;
 	    display: block;
-	    height: 365px;
-	    width: 547px;
+	    max-width: 100%;
+    	height: auto;
 	}
 	
 	#centerdiv {

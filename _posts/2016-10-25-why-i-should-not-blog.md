@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Why I Should Not Blog
 ---
 

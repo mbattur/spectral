@@ -50,7 +50,7 @@ social:
   #forumbee:
   #tripadvisor:
   #amazon:
-  google_analytics: "UA-86078108-1"
+  #google_analytics: "UA-86078108-1"
 
 # Build settings
 markdown: kramdown

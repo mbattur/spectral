@@ -37,6 +37,6 @@ By the way besides being its student I’m not affiliated or sponsored by Bloc i
 
 LINKS:
 
-<a href="https://devbootcamp.com/" target="_blank">DevBootcamp</a>
+<a href="https://devbootcamp.com/" target="_blank">Dev Bootcamp</a>
 
 <a href="https://www.bloc.io/" target="_blank">Bloc</a>
